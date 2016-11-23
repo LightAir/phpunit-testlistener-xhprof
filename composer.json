@@ -1,5 +1,5 @@
 {
-    "name": "LightAir/phpunit-testlistener-xhprof",
+    "name": "lightair/phpunit-testlistener-xhprof",
     "description": "A updated TestListener for PHPUnit that uses XHProf for automated profiling of the tested code.",
     "type": "library",
     "keywords": [
