@@ -1,12 +1,12 @@
 {
-    "name": "phpunit/test-listener-xhprof",
-    "description": "A TestListener for PHPUnit that uses XHProf for automated profiling of the tested code",
+    "name": "LightAir/phpunit-testlistener-xhprof",
+    "description": "A updated TestListener for PHPUnit that uses XHProf for automated profiling of the tested code.",
     "type": "library",
     "keywords": [
         "phpunit",
         "xhprof"
     ],
-    "homepage": "https://github.com/phpunit/phpunit-testlistener-xhprof",
+    "homepage": "https://github.com/LightAir/phpunit-testlistener-xhprof/",
     "license": "BSD-3-Clause",
     "authors": [
         {
@@ -21,11 +21,11 @@
         }
     ],
     "support": {
-        "issues": "https://github.com/phpunit/phpunit-testlistener-xhprof/issues"
+        "issues": "https://github.com/LightAir/phpunit-testlistener-xhprof/issues"
     },
     "require": {
-        "php": ">=5.3.3",
-        "phpunit/phpunit": "~4.0"
+        "php": ">=5.6",
+        "phpunit/phpunit": "5.6.*"
     },
     "autoload": {
         "classmap": [
