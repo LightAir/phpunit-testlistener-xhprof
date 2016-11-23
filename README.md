@@ -1,7 +1,6 @@
 This is updated fork to - **[A TestListener that integrates with XHProf](https://github.com/phpunit/phpunit-testlistener-xhprof)**
 
-Here is an example XML configuration for activating this listener:
-
+Example XML configuration for activating this listener:
 ```xml
 <listeners>
     <listener class="PHPUnit\XHProfTestListener\XHProfTestListener">
