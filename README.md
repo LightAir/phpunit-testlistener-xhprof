@@ -1,13 +1,14 @@
 This is updated fork to - **[A TestListener that integrates with XHProf](https://github.com/phpunit/phpunit-testlistener-xhprof)**
 
-Here is an example XML configuration for activating this listener:
-
 ```
 1.0.3 - for php >= 5.6 & phpunit 5.7.*
 ```
 ```
 1.0.2 - for php >= 5.6 & phpunit 5.6.*
 ```
+
+=======
+Here is an example XML configuration for activating this listener:
 
 ```xml
 <listeners>
